@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic app for uploading files using CarrierWave.
 
-Things you may want to cover:
+## Stack
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Rails 5.0.0.1
+* CarrierWave 1.0.0.rc
+* RSpec 3.5.2
